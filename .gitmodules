@@ -11,3 +11,6 @@
 [submodule "libactivator"]
 	path = libactivator
 	url = https://github.com/rpetrich/libactivator.git
+[submodule "WholeAppListRepo"]
+	path = WholeAppListRepo
+	url = https://github.com/rpetrich/AppList.git
